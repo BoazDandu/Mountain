@@ -20,7 +20,7 @@ a {
 }
 
 .header-container {
-    background-image: url("/img/photo-1459666644539-a9755287d6b0.png");
+    background-image: url("img/photo-1459666644539-a9755287d6b0.png");
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -55,7 +55,7 @@ a {
 
 @media (max-width: 600px) {
     .header-container {
-        background-image: url("/img/photo-1459666644539-a9755287d6b0.png");
+        background-image: url("img/photo-1459666644539-a9755287d6b0.png");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -83,7 +83,7 @@ a {
 }
 
 .container-2 {
-    background-image: url("/img/historybg.png");
+    background-image: url("img/historybg.png");
     background-size: cover;
     height: 120vh;
     position: relative;
@@ -198,7 +198,7 @@ a {
 
 .container3 {
     height: 120vh;
-    background-image: url("/img/mountain1.png");
+    background-image: url("img/mountain1.png");
     background-size: cover;
 }
 
@@ -345,11 +345,11 @@ footer p {
     }
 
     #tab1 {
-        background-image: url("/img/mountain1.png");
+        background-image: url("img/mountain1.png");
         background-size: cover;
     }
     #tab2 {
-        background-image: url("/img/mountain2.png");
+        background-image: url("img/mountain2.png");
         background-size: cover;
     }
 
